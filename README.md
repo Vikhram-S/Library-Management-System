@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:212222060295
-# Name:Vikhram S
-# Date:17.09.2025
+# Reg No: 212222060295
+# Name: Vikhram S
+# Date: 17.09.2025
 
 
 # AIM:

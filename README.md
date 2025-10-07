@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212222060295
+# Name:Vikhram S
+# Date:17.09.2025
 
 
 # AIM:
@@ -39,9 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
+![book use case](https://github.com/user-attachments/assets/63223910-c1de-4af5-b89c-1f3f183e4321)
 
 
 # CLASS DIAGRAM
@@ -58,6 +56,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![book class](https://github.com/user-attachments/assets/f5cdfdd5-f8f0-4a75-9f2d-c50f79667117)
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,7 +66,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
+![book commu](https://github.com/user-attachments/assets/40fa57e3-5286-4204-9e87-edd2c1196e26)
 
 
 # PACKAGE DIAGRAM:
@@ -77,11 +77,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
+![book pack](https://github.com/user-attachments/assets/2796e76d-74b7-489c-8f08-97e5fe351426)
 
 
 # ACTIVITY DIAGRAM:
@@ -96,8 +92,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+<img width="871" height="1008" alt="book activity" src="https://github.com/user-attachments/assets/a79f73ef-ddab-4fad-a71e-5cdf5e4df17a" />
 
 
 # SEQUENCE DIAGRAM
@@ -117,6 +112,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1232" height="1001" alt="book seq" src="https://github.com/user-attachments/assets/20141f0b-77fa-4b27-bc0f-44d46e0ac362" />
 
 
 
